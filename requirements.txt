@@ -104,8 +104,6 @@ python-dateutil==2.8.2
 python-engineio==4.2.1
 python-socketio==5.4.0
 pytz==2021.3
-pywin32==301
-pywinpty==1.1.4
 pyzmq==22.3.0
 qtconsole==5.1.1
 QtPy==1.11.2
