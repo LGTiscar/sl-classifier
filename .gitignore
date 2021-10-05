@@ -1,0 +1,7 @@
+Logs/
+MP_Data/
+.clasif.ipynb
+__pycache__/
+.git/
+SIGNS/
+streamlit/
